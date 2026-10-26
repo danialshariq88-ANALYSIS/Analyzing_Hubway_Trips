@@ -4,5 +4,5 @@ Analyzed Hubway bike-sharing trip data using Python, Pandas, SQL, and Jupyter No
 ## Dataset
 The dataset (hubway.db, ~130 MB) is hosted on Google Drive due to GitHub's file size limit.
 
-[Download hubway.db]([https://drive.google.com/file/d/17JXfUXeoezdZXmcCELSZNG93DiOa7QQB/view?usp=drive_link])
+[Download hubway.db][https://drive.google.com/file/d/17JXfUXeoezdZXmcCELSZNG93DiOa7QQB/view?usp=drive_link]
 
